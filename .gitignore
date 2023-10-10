@@ -1,0 +1,8 @@
+*.pdf
+*.bib
+*.txt
+*.png
+*.svg
+*.log
+.gitattributes
+*.zip
